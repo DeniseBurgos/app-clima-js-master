@@ -51,3 +51,5 @@ function mostrarDatosClima(response) {
   divDatosClima.appendChild(humedadInfo);
   divDatosClima.appendChild(iconoInfo);
 }
+
+alert("hola");
